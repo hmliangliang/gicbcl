@@ -8,5 +8,4 @@ GIBCL算法包含两个部分：exection.py主要执行图对比学习，输出�
 关于图对比学习中可学习增广idea参考于Wei, Chunyu, et al. "Contrastive Graph Structure Learning via Information Bottleneck for Recommendation." Advances in Neural Information Processing Systems 35 (2022): 20407-20420.
 
 <img src="./GIBCL.png" alt="图 GIBCL算法的结构示意图">
-
-##图 GIBCL算法的结构示意图
+                    图 GIBCL算法的结构示意图
